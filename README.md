@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikk5515&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10&title_color=70a5fd&bg_color=151A28" width="550" height="130"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikk5515&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10&title_color=70a5fd&bg_color=151A28" width="500" height="130"/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=ikk5515&show_icons=true&theme=radical&title_color=70a5fd)" width="550" height="130"/>
   <br><br>
