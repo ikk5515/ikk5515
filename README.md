@@ -25,6 +25,7 @@
 <br>
   # Tools
   ![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC.svg?style=for-the-badge&logo=Java&logoColor=while)
+  ![Visual Studio](https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91.svg?style=for-the-badge&logo=Java&logoColor=while)
   ![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-CC6699.svg?style=for-the-badge&logo=Java&logoColor=while)
   ![PyCharm](https://img.shields.io/badge/PYCHARM-00C244.svg?style=for-the-badge&logo=Java&logoColor=while)
   ![GitHub](https://img.shields.io/badge/GITHUB-181717.svg?style=for-the-badge&logo=Java&logoColor=while)
