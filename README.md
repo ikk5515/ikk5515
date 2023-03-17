@@ -10,7 +10,7 @@
 
   <br>
   
-<h2 align="center"> My own tech </h2>
+<h2 align="center"> 🛠 My tech </h2>
 
 <h3 align="center">Language</h3>
 <p align="center>
