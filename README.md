@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ikk5515&show_icons=true&theme=radical&title_color=70a5fd)" width="450" height="130"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=ikk5515&show_icons=true&theme=radical&title_color=70a5fd)" width="450" height="130"/> -->
   <br><br>
   <a href="https://github.com/ikk5515"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fikk5515&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
   <a href="https://solved.ac/ikk5515"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ikk5515"/></a>
