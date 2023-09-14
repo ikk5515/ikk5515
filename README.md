@@ -30,9 +30,10 @@
 </p>
 <h3 align="center">Front-end</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=white"></img>
     <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=BOOTSTRAP&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white"></img>
 </p>
 <h3 align="center">Back-end</h3>
 <p align="center">
@@ -46,8 +47,20 @@
     <img src="https://img.shields.io/badge/ORACLE SQL-F80000?style=flat-square&logo=Oracle&logoColor=white"></img>
 </p>
 
-<br>
+<h3 align="center">Server</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonecs&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"></img>
+</p>
 
+<h3 align="center">devops</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Amazon CodeDeploy-FF9900?style=flat-square&logo=githubactions&logoColor=white"></img>
+</p>
+
+<br>
 <h2 align="center">📬Contacts</h2>
 <p align="center">
 
